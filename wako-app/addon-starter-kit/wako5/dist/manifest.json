@@ -6,7 +6,7 @@
   "description": "Will enable include_adult parameter from TMDb API https://developers.themoviedb.org/3/search/search-movies",
   "author": "piloupilou06",
   "actions": [],
-  "entryPointV2": "https://pastebin.com/raw/Qn2SKFeS",
+  "entryPointV2": "https://raw.githubusercontent.com/Cmannion41/main-dist-manifest.json/main/wako-app/addon-starter-kit/wako5/dist/manifest.json",
   "languages": {
     "en": "https://pastebin.com/raw/bjRNuYhT"
   },
