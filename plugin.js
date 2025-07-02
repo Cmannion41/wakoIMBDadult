@@ -1,10 +1,10 @@
 export async function entryPoint({ addAction }) {
   addAction({
-    id: 'tmdb-toggle-adult',
-    name: 'Toggle TMDb Adult',
-    description: 'Enable TMDb adult content setting',
+    id: 'test-action',
+    name: 'Say Hello',
+    description: 'Click to log a message',
     onPress: async () => {
-      console.log('Adult content toggled');
+      console.log('Hello from Wako plugin!');
     }
   });
 }
