@@ -6,9 +6,9 @@
   "description": "Enables the include_adult parameter from TMDb.",
   "author": "piloupilou06",
   "actions": [],
-  "entryPointV2": "https://raw.githubusercontent.com/Cmannion41/wako-plugin-tmdb-adult/main/plugin.js",
+  "entryPointV2": "https://raw.githubusercontent.com/Cmannion41/wakoIMBDadult/main/plugin.js",
   "languages": {
-    "en": "https://raw.githubusercontent.com/Cmannion41/wako-plugin-tmdb-adult/main/en.json"
+    "en": "https://raw.githubusercontent.com/Cmannion41/wakoIMBDadult/main/en.json"
   },
   "changeLogs": {
     "1.0.0": "Initial release"
