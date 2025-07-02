@@ -6,7 +6,7 @@
   "description": "Enables the include_adult parameter from TMDb.",
   "author": "piloupilou06",
   "actions": [],
-  "entryPointV2": "https://raw.githubusercontent.com/Cmannion41/wakoIMBDadult/main/plugin.js",
+  "entryPointV3": "https://raw.githubusercontent.com/Cmannion41/wakoIMBDadult/main/plugin.js",
   "languages": {
     "en": "https://raw.githubusercontent.com/Cmannion41/wakoIMBDadult/main/en.json"
   },
